@@ -15,5 +15,17 @@
 *.a
 *.bc
 /external
+/reference/
+/samples/
+/shaders-hlsl/
+/shaders-hlsl-no-opt/
+/shaders-msl/
+/shaders-msl-no-opt/
+/shaders-no-opt/
+/shaders-other/
+/shaders-reflection/
+/tests-other/
+.DS_Store
+/include/.DS_Store
 
 !CMakeLists.txt
